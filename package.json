@@ -20,6 +20,7 @@
     "express": "^4.19.2",
     "node-fetch-commonjs": "^3.3.2",
     "uuid": "^9.0.1",
+    "vercel": "^34.2.5",
     "webpack": "^5.91.0"
   }
 }
